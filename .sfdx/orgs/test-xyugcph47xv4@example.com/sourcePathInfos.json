@@ -32,14 +32,14 @@
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 320,
             "modifiedTime": 1520401041606,
             "changeTime": 1520401041606,
-            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2"
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -47,10 +47,10 @@
         {
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 160,
-            "modifiedTime": 1520332459101,
-            "changeTime": 1520332459101,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
+            "size": 192,
+            "modifiedTime": 1520401149387,
+            "changeTime": 1520401149387,
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -287,7 +287,7 @@
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
             "size": 352,
-            "modifiedTime": 1520332687559,
+            "modifiedTime": 1520401311058,
             "changeTime": 1520331615491,
             "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
             "isMetadataFile": false,
@@ -312,10 +312,10 @@
         {
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 183,
-            "modifiedTime": 1520332687450,
-            "changeTime": 1520332687450,
-            "contentHash": "6d3f6812a6c1b614697dc68dcf06eca006afa56d",
+            "size": 207,
+            "modifiedTime": 1520401310952,
+            "changeTime": 1520401310953,
+            "contentHash": "37e98d89648bc66e9fbd19c28468ec4a1ac8cbb7",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -765,391 +765,521 @@
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 210,
             "modifiedTime": 1520401041608,
             "changeTime": 1520401041608,
-            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259"
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/._leaflet",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/._leaflet",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 212,
             "modifiedTime": 1520401041755,
             "changeTime": 1520401041755,
-            "contentHash": "d2975b7d6b4b16abd0f67306363b40ae30c93d06"
+            "contentHash": "d2975b7d6b4b16abd0f67306363b40ae30c93d06",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/._images",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/._images",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 212,
             "modifiedTime": 1520401041759,
             "changeTime": 1520401041759,
-            "contentHash": "d2975b7d6b4b16abd0f67306363b40ae30c93d06"
+            "contentHash": "d2975b7d6b4b16abd0f67306363b40ae30c93d06",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/._leaflet-src.js",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/._leaflet-src.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 212,
             "modifiedTime": 1520401041762,
             "changeTime": 1520401041762,
-            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3"
+            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/._leaflet-src.js.map",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/._leaflet-src.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 212,
             "modifiedTime": 1520401041766,
             "changeTime": 1520401041766,
-            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3"
+            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/._leaflet.css",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/._leaflet.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 212,
             "modifiedTime": 1520401041768,
             "changeTime": 1520401041768,
-            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3"
+            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/._leaflet.js",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/._leaflet.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 212,
             "modifiedTime": 1520401041770,
             "changeTime": 1520401041770,
-            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3"
+            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/._leaflet.js.map",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/._leaflet.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 212,
             "modifiedTime": 1520401041773,
             "changeTime": 1520401041773,
-            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3"
+            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/images/._layers-2x.png",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/images/._layers-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 212,
             "modifiedTime": 1520401041775,
             "changeTime": 1520401041775,
-            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3"
+            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/images/._layers.png",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/images/._layers.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 212,
             "modifiedTime": 1520401041778,
             "changeTime": 1520401041778,
-            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3"
+            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/images/._marker-icon-2x.png",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/images/._marker-icon-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 212,
             "modifiedTime": 1520401041781,
             "changeTime": 1520401041781,
-            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3"
+            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/images/._marker-icon.png",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/images/._marker-icon.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 212,
             "modifiedTime": 1520401041783,
             "changeTime": 1520401041783,
-            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3"
+            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/images/._marker-shadow.png",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/images/._marker-shadow.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 212,
             "modifiedTime": 1520401041785,
             "changeTime": 1520401041785,
-            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3"
+            "contentHash": "c295fb97a09b09bf797d806833e3e8eb90d93ca3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/images/layers-2x.png",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/images/layers-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1259,
             "modifiedTime": 1520401041789,
             "changeTime": 1520401041789,
-            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee"
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/images/layers.png",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/images/layers.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 696,
             "modifiedTime": 1520401041791,
             "changeTime": 1520401041791,
-            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06"
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/images/marker-icon-2x.png",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/images/marker-icon-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2464,
             "modifiedTime": 1520401041794,
             "changeTime": 1520401041794,
-            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5"
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/images/marker-icon.png",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/images/marker-icon.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1466,
             "modifiedTime": 1520401041796,
             "changeTime": 1520401041796,
-            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da"
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/images/marker-shadow.png",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/images/marker-shadow.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 618,
             "modifiedTime": 1520401041798,
             "changeTime": 1520401041798,
-            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc"
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/leaflet-src.js",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/leaflet-src.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 396928,
             "modifiedTime": 1520401041811,
             "changeTime": 1520401041811,
-            "contentHash": "4240045cf30725cb9980498fcc2ebf27a2f3c260"
+            "contentHash": "4240045cf30725cb9980498fcc2ebf27a2f3c260",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/leaflet-src.js.map",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/leaflet-src.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 755043,
             "modifiedTime": 1520401041814,
             "changeTime": 1520401041814,
-            "contentHash": "ca31fc870259d8faaa12c2f431906f368ea92791"
+            "contentHash": "ca31fc870259d8faaa12c2f431906f368ea92791",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/leaflet.css",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/leaflet.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 14198,
             "modifiedTime": 1520401041817,
             "changeTime": 1520401041817,
-            "contentHash": "57d2f781ab8b7b41d1dd5f0a51cd1930050ca9dc"
+            "contentHash": "57d2f781ab8b7b41d1dd5f0a51cd1930050ca9dc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/leaflet.js",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/leaflet.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 139643,
             "modifiedTime": 1520401041834,
             "changeTime": 1520401041834,
-            "contentHash": "997eed0c9cf25113c35b4213569b2323ad7d861e"
+            "contentHash": "997eed0c9cf25113c35b4213569b2323ad7d861e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/leaflet.js.map",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/leaflet.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 190004,
             "modifiedTime": 1520401041836,
             "changeTime": 1520401041836,
-            "contentHash": "d94996a1df21dc6283868fdf6c0f1e50358eafea"
+            "contentHash": "d94996a1df21dc6283868fdf6c0f1e50358eafea",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
-            "modifiedTime": 1520401041750,
+            "modifiedTime": 1520401044000,
             "changeTime": 1520401041750,
-            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49"
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
-            "modifiedTime": 1520401041756,
+            "modifiedTime": 1520401047000,
             "changeTime": 1520401041756,
-            "contentHash": "553316f6f20348c41697be089ef48ec562ad35f2"
+            "contentHash": "553316f6f20348c41697be089ef48ec562ad35f2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
-            "modifiedTime": 1520401041786,
+            "modifiedTime": 1520401046000,
             "changeTime": 1520401041786,
-            "contentHash": "41b81aa37b589a9da936aa221f3e0f9698be6916"
+            "contentHash": "41b81aa37b589a9da936aa221f3e0f9698be6916",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 288,
-            "modifiedTime": 1520401041773,
+            "modifiedTime": 1520401047000,
             "changeTime": 1520401041773,
-            "contentHash": "4a405352d287bb258aad1f52a0e2f98bd3602500"
+            "contentHash": "4a405352d287bb258aad1f52a0e2f98bd3602500",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/images",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/__MACOSX/leaflet/images",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
-            "modifiedTime": 1520401041785,
+            "modifiedTime": 1520401047000,
             "changeTime": 1520401041785,
-            "contentHash": "11ea156bd5bf3b9213264959e8c97d49df5a46cd"
+            "contentHash": "11ea156bd5bf3b9213264959e8c97d49df5a46cd",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/images",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet/images",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
-            "modifiedTime": 1520401041798,
+            "modifiedTime": 1520401047000,
             "changeTime": 1520401041798,
-            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659"
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet",
         {
-            "state": "u",
             "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/staticresources/leaflet/leaflet",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 256,
-            "modifiedTime": 1520401041836,
+            "modifiedTime": 1520401047000,
             "changeTime": 1520401041836,
-            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029"
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1520401247367,
+            "changeTime": 1520401247367,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+        {
+            "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1520401149393,
+            "changeTime": 1520401149940,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 261,
+            "modifiedTime": 1520514516813,
+            "changeTime": 1520514516813,
+            "contentHash": "dbf44402a30bc1a88b41ac4f84d466826e47474b"
+        }
+    ],
+    [
+        "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1520514516800,
+            "changeTime": 1520514516800,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772"
+        }
+    ],
+    [
+        "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1520514516839,
+            "changeTime": 1520514516839,
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c"
+        }
+    ],
+    [
+        "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+        {
+            "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1520401149393,
+            "changeTime": 1520401149944,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+        {
+            "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1520401149392,
+            "changeTime": 1520401149934,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 379,
+            "modifiedTime": 1520514516827,
+            "changeTime": 1520514516827,
+            "contentHash": "03c2ff940a77f739be3be834b08d71acb5ef1c83"
+        }
+    ],
+    [
+        "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1520514516820,
+            "changeTime": 1520514516820,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d"
+        }
+    ],
+    [
+        "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/manu/Documents/hl/sfdx/trailhead/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1520514516855,
+            "changeTime": 1520514516855,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
         }
     ]
 ]
